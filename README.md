@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lmadrig3
+- 👋 Hi, I’m John Doe
 - 👨🏻‍💻 I’m interested in ... Technology and the world of Data
 - 🎓 I’m currently learning ... Data Science 
 - 💼 I’m looking to collaborate on ... collaborative projects
