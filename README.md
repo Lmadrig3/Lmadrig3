@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm JOHN</h1>
-<h3 align="center">A passionate Data Analyst From </h3>
+<h1 align="left">Hello, I'm JOHN 👋</h1>
+<h3 align="left">A passionate Data Analyst From </h3>
+
 
 - 👨🏻‍💻 I’m interested in ... Technology and the world of Data
 - 🎓 I’m currently learning ... Data Science 
