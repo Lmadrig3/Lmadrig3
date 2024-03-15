@@ -65,13 +65,12 @@
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmadrig3&show_icons=true&locale=en&layout=compact" alt="lmadrig3" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmadrig3&show_icons=true&locale=en" alt="lmadrig3" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmadrig3&" alt="lmadrig3" /></p>
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmadrig3&theme=nightowl&hide_border=false" height="187.5"/>
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmadrig3&theme=nightowl&hide_border=false" height="153" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmadrig3&theme=nightowl&hide_border=true" height="153" />
+  </div>
 
 <!---
 Lmadrig3/Lmadrig3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
