@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lmadrig3
 - 👨🏻‍💻 I’m interested in ... Technology and the world of Data
 - 🎓 I’m currently learning ... Data Science 
-- 💼 I’m looking to collaborate on ... collaborative propjects
+- 💼 I’m looking to collaborate on ... collaborative projects
 - ⚡ Fun fact: ... I run purely on Caffeine
 - 📫 How to reach me ... Linkedin : Lmadrig3
 
