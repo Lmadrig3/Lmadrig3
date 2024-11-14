@@ -20,7 +20,9 @@
 
 
 
-| Languages | <img src="https://skillicons.dev/icons?i=ts,js,cpp,java,go,python&theme=dark" alt="techstack" /> 
+| Languages | ![Python](https://img.shields.io/badge/-Python-7fdbca?style=flat&logo=python)
+  ![SQL](https://img.shields.io/badge/-SQL-7fdbca?style=flat&logo=sql)
+  ![Markdown](https://img.shields.io/badge/-Markdown-7fdbca?style=flat&logo=markdown)
 | ------------ | ----------- |
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-7fdbca?style=flat&logo=python)
