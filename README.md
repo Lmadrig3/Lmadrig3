@@ -1,12 +1,12 @@
 <h1 align="left">Hello, I'm John 👋</h1>
-<h3 align="left">I'm a Data Analyst comiited to continually learning From </h3>
+<h3 align="left">I'm a Data Analyst comiited to continually learning  </h3>
 
 
 - 👨🏻‍💻 I’m interested in ... Technology and the world of Data
 - 🎓 I’m currently learning ... Data Science 
 - 💼 I’m looking to collaborate on ... collaborative projects
 - 📫 You can view more about me here:
-- ⚡ Fun fact: . ..... . .......
+- ⚡ Fun fact: . ..... . ........
 
   
 <h3 align="left">🛠 Languages and Tools:</h3>
