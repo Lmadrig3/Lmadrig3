@@ -61,11 +61,13 @@
 
 ## My GitHub Statistics
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmadrig3&theme=nightowl&hide_border=false)
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmadrig3&theme=nightowl&hide_border=false)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lmadrig3&theme=nightowl&hide_border=true)
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmadrig3&theme=nightowl&hide_border=false" height="187.5"/>
+  <div align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmadrig3&theme=nightowl&hide_border=false" height="153" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmadrig3&theme=nightowl&hide_border=true" height="153" />
+  </div>
+</div>
 
 
 
