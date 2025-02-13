@@ -67,7 +67,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmadrig3&theme=nightowl&hide_border=false" height="153" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmadrig3&theme=nightowl&hide_border=true" height="153" />
   </div>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
