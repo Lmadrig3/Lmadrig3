@@ -16,7 +16,7 @@
 
  - Programming Languages & Libraries 💻📚 &nbsp;
 
-
+-
   ![Python](https://img.shields.io/badge/-Python-7fdbca?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-7fdbca?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-7fdbca?style=flat&logo=markdown)
@@ -29,7 +29,7 @@
   ![FastAPI](https://img.shields.io/badge/-FastAPI-7fdbca?style=flat&logo=fastapi)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-7fdbca?style=flat&logo=streamlit)
  - Databases & Data Warehousing 🛢 &nbsp;
-
+-
   ![MySQL](https://img.shields.io/badge/-MySQL-7fdbca?style=flat&logo=MySQL)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-7fdbca?style=flat&logo=bigquery)
   ![Postgres](https://img.shields.io/badge/-Postgres-7fdbca?style=flat&logo=postgresql)
@@ -38,7 +38,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-7fdbca?style=flat&logo=mongodb)
 - Big Data & Distributed Systems 🔧&nbsp;
 
- 
+- 
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-7fdbca?style=flat&logo=apache-hadoop)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-7fdbca?style=flat&logo=apache-hive)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-7fdbca?style=flat&logo=apache-spark)
@@ -47,7 +47,7 @@
   ![Power BI](https://img.shields.io/badge/-Power%20BI-7fdbca?style=flat&logo=powerbi)
 - Version Control & Development Tools ⚙️ &nbsp;
 
-  
+ - 
   ![Git](https://img.shields.io/badge/-Git-7fdbca?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-7fdbca?style=flat&logo=github)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-7fdbca?style=flat&logo=jupyter)
@@ -55,7 +55,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-7fdbca?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - Cloud & Deployment ☁️ &nbsp;
 
- 
+ -
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-7fdbca?style=flat&logo=google-cloud)
   ![Docker](https://img.shields.io/badge/-Docker-7fdbca?style=flat&logo=docker)
 
