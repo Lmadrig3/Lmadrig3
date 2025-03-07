@@ -16,7 +16,7 @@
 
  - Programming Languages & Libraries 💻📚 &nbsp;
 
-  
+-
   ![Python](https://img.shields.io/badge/-Python-7fdbca?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-7fdbca?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-7fdbca?style=flat&logo=markdown)
