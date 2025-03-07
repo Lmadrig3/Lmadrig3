@@ -14,7 +14,7 @@
 
 
 
-- Programming Languages & Libraries 💻📚 &nbsp;
+ Programming Languages & Libraries 💻📚 &nbsp;
 
   
   ![Python](https://img.shields.io/badge/-Python-7fdbca?style=flat&logo=python)
@@ -28,9 +28,8 @@
   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-7fdbca?style=flat&logo=scikitlearn)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-7fdbca?style=flat&logo=fastapi)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-7fdbca?style=flat&logo=streamlit)
-- Databases & Data Warehousing 🛢 &nbsp;
+ Databases & Data Warehousing 🛢 &nbsp;
 
-- 
   ![MySQL](https://img.shields.io/badge/-MySQL-7fdbca?style=flat&logo=MySQL)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-7fdbca?style=flat&logo=bigquery)
   ![Postgres](https://img.shields.io/badge/-Postgres-7fdbca?style=flat&logo=postgresql)
