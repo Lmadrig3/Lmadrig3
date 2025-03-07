@@ -55,7 +55,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-7fdbca?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - Cloud & Deployment ☁️ &nbsp;
 
- -
+-
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-7fdbca?style=flat&logo=google-cloud)
   ![Docker](https://img.shields.io/badge/-Docker-7fdbca?style=flat&logo=docker)
 
