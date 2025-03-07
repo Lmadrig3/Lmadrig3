@@ -22,6 +22,9 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-7fdbca?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-7fdbca?style=flat&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-7fdbca?style=flat&logo=matplotlib)
+
+
+
   ![Seaborn](https://img.shields.io/badge/-Seaborn-7fdbca?style=flat&logo=seaborn)
   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-7fdbca?style=flat&logo=scikitlearn)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-7fdbca?style=flat&logo=fastapi)
