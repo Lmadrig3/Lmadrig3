@@ -47,7 +47,7 @@
   ![Power BI](https://img.shields.io/badge/-Power%20BI-7fdbca?style=flat&logo=powerbi)
 - Version Control & Development Tools ⚙️ &nbsp;
 
- - 
+-  
   ![Git](https://img.shields.io/badge/-Git-7fdbca?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-7fdbca?style=flat&logo=github)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-7fdbca?style=flat&logo=jupyter)
