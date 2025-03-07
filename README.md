@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm John 👋</h1>
-<h3 align="left">I'm a Data Analyst comiited to continually learning  </h3>
+<h3 align="left"> I'm a data analyst committed to continually learning everything I can. </h3>
 
 
 - 👨🏻‍💻 I’m interested in ... Technology and the world of Data
