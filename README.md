@@ -14,7 +14,7 @@
 
 
 
- Programming Languages & Libraries 💻📚 &nbsp;
+ - Programming Languages & Libraries 💻📚 &nbsp;
 
   
   ![Python](https://img.shields.io/badge/-Python-7fdbca?style=flat&logo=python)
