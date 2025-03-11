@@ -43,7 +43,7 @@
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-7fdbca?style=flat&logo=apache-hive)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-7fdbca?style=flat&logo=apache-spark)
 - Data Visualization 📊 &nbsp;
-  ![Tableau](https://img.shields.io/badge/-Tableau-7fdbca?style=flat&logo=tableau)
+ - ![Tableau](https://img.shields.io/badge/-Tableau-7fdbca?style=flat&logo=tableau)
   ![Power BI](https://img.shields.io/badge/-Power%20BI-7fdbca?style=flat&logo=powerbi)
 - Version Control & Development Tools ⚙️ &nbsp;
 
