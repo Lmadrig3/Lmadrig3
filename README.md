@@ -6,6 +6,7 @@
 - 🎓 I’m currently learning ... Data Science 
 - 💼 I’m looking to collaborate on ...  collaborative projects
 - ⚡ Fun fact: I update my 'Read. Me' as soon as I wake up..??..p..........
+- 
 - 📫 You can view more about me here:
 
 <h3 align="left">🛠 Languages and Tools:</h3>
