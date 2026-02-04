@@ -2,7 +2,7 @@
 <h3 align="left"> I'm a data analyst committed to learning .</h3>
 
 - 👨🏻‍💻 I’m interested in ... Technology and the world of Data
-- 🎓 I’m currently learning ......pl
+- 🎓 I’m currently learning ..l
 - 💼 I’m looking to collaborate on ...  collaborative projects
 - ⚡ Fun fact: I update my 'Read. Me' 
  
