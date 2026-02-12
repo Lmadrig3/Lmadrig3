@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I’m interested in ... Technology and the world of Data
 - 🎓 I’m currently learning ..
 - 💼 I’m looking to collaborate on ..collaborative projects.yeah..
-- ⚡ Fun fact: I update my 'Read. Me,............
+- ⚡ Fun fact: I update my 'Read. Me,.............
  
 - 📫 You can view more about me here:
 
